@@ -16,3 +16,6 @@ To become a Software QA Engineer.
 
 ## Learning Status
 Currently learning Software Testing and SQL.
+- Manual Testing
+- SQL
+- Git and GitHub
